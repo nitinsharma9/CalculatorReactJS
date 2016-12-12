@@ -1,0 +1,30 @@
+{
+  "name": "calculator_react_app",
+  "version": "1.0.0",
+  "description": "first app",
+  "main": "index.js",
+  "dependencies": {
+    "babel-core": "^6.20.0",
+    "babel-loader": "^6.2.9",
+    "babel-preset-es2015": "^6.18.0",
+    "babel-preset-react": "^6.16.0",
+    "react": "^15.4.1",
+    "react-dom": "^15.4.1",
+    "webpack": "^1.14.0",
+    "webpack-dev-server": "^1.16.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "webpack-dev-server --hot"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nsrocks08/CalculatorReactJS.git"
+  },
+  "author": "nitin_sharma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nsrocks08/CalculatorReactJS/issues"
+  },
+  "homepage": "https://github.com/nsrocks08/CalculatorReactJS#readme"
+}
